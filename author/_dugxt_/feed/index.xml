@@ -9,8 +9,8 @@
 
 <channel>
 	<title>_dugxt_ &#8211; Skinmakers</title>
-	<atom:link href="/author/_dugxt_/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://https://github.com/dugxt/skinmakers.github.io.git/author/_dugxt_/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://github.com/dugxt/skinmakers.github.io.git</link>
 	<description></description>
 	<lastBuildDate>Fri, 22 Sep 2023 16:34:08 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.3.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/09/1j2lsl-LogoMakr.png</url>
+	<url>https://https://github.com/dugxt/skinmakers.github.io.git/wp-content/uploads/2023/09/1j2lsl-LogoMakr.png</url>
 	<title>_dugxt_ &#8211; Skinmakers</title>
-	<link></link>
+	<link>https://https://github.com/dugxt/skinmakers.github.io.git</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>/2023/09/22/chao-moi-nguoi/</link>
-					<comments>/2023/09/22/chao-moi-nguoi/#comments</comments>
+		<link>https://https://github.com/dugxt/skinmakers.github.io.git/2023/09/22/chao-moi-nguoi/</link>
+					<comments>https://https://github.com/dugxt/skinmakers.github.io.git/2023/09/22/chao-moi-nguoi/#comments</comments>
 		
 		<dc:creator><![CDATA[_dugxt_]]></dc:creator>
 		<pubDate>Fri, 22 Sep 2023 16:34:08 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://https://github.com/dugxt/skinmakers.github.io.git/?p=1</guid>
 
 					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
 										<content:encoded><![CDATA[
 <p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2023/09/22/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://https://github.com/dugxt/skinmakers.github.io.git/2023/09/22/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
